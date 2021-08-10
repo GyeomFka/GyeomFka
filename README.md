@@ -1,5 +1,7 @@
-YongHwan Kim / 김용환
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
+<a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a61e51b2c18a6162caab2b4b87ace8ee316c28eb02e41f80aa99c9f9023fe9a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a61e51b2c18a6162caab2b4b87ace8ee316c28eb02e41f80aa99c9f9023fe9a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666c61742d737175617265266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=java&amp;logoColor=white" style="max-width:100%;"></a>
 
 
 <!--
