@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br/> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/intellij-181717?style=for-the-badge&logo=intellij&logoColor=white">
 </div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GyeomFka)](https://github.com/anuraghazra/github-readme-stats)
