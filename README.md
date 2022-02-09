@@ -1,5 +1,5 @@
 ### 김용환입니다.
-#### [이력서 Link](https://trusted-jump-805.notion.site/Software-Engineer_-728b069923374a8f85eab06f3b62ac5a)
+#### [경력상세 Link](https://trusted-jump-805.notion.site/Software-Engineer_-728b069923374a8f85eab06f3b62ac5a)
 <hr/>
 <div>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
