@@ -1,4 +1,5 @@
 ### 김용환입니다.
+- [이력서](https://trusted-jump-805.notion.site/Software-Engineer_-728b069923374a8f85eab06f3b62ac5a)
 #### 의미없는 커밋도 있습니다.
 
 <div>
